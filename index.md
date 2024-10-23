@@ -1,23 +1,35 @@
 # Youngwoo Kim
 
-[University of Massachusetts Amherst](https://www.umass.edu/)  
+![Youngwoo Kim](https://people.cs.umass.edu/~youngwookim/assets/img/prof_pic.jpg)
+
 youngwookim@cs.umass.edu
 
 ## About Me 🎓
 
-I am a PhD student at the University of Massachusetts Amherst (UMass) working with [James Allan](https://ciir.cs.umass.edu/~allan/). I am part of the [Center for Intelligent Information Retrieval (CIIR)](http://ciir.cs.umass.edu). My research interests include various aspects of information retrieval (IR) and natural language processing (NLP).
+I am a postdoctoral researcher at University of Virginia working with [Tom Hartvigsen](https://www.tomhartvigsen.com/) and [Steven L. Johnson](https://stevenljohnson.org/) . 
 
-I received my bachelor's degree from Pohang University of Science and Technology (POSTECH), where I worked with Hwanjo Yu.
+ My research interests include various aspects of natural language processing (NLP) and information retrieval (IR).
+
+* PhD/MS, Computer Science, [University of Massachusetts Amherst (UMass) ](https://www.umass.edu/), working with James Allan and Negin Rahimi. 
+* BS, Computer Science, Pohang University of Science and Technology (POSTECH).
 
 ## Publications 📚
 
 View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCfUoAAAAJ)
+### 2024
 
+- **[EMNLP 24] Discovering Biases in Information Retrieval Models Using Relevance Thesaurus as Global Explanation**
+  <br>
+  **Youngwoo Kim**, Razieh Rahimi, and James Allan
+  <br>
+  EMNLP 2024 Main
+  <br>
+  [[PDF](https://arxiv.org/pdf/2410.03584)] 
 ### 2023
 
-- **Conditional Natural Language Inference**
+- **[F.ACL EMNLP 23] Conditional Natural Language Inference**
   <br>
-  *Youngwoo Kim*, Razieh Rahimi, and James Allan
+  **Youngwoo Kim**, Razieh Rahimi, and James Allan
   <br>
   Findings of the Association for Computational Linguistics: EMNLP 2023
   <br>
@@ -25,9 +37,9 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2022
 
-- **Alignment Rationale for Query-Document Relevance**
+- **[SIGIR 22] Alignment Rationale for Query-Document Relevance**
   <br>
-  *Youngwoo Kim*, Razieh Rahimi, and James Allan
+  **Youngwoo Kim**, Razieh Rahimi, and James Allan
   <br>
   In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval
   <br>
@@ -35,9 +47,9 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2021
 
-- **Query-driven Segment Selection for Ranking Long Documents**
+- **[CIKM 21] Query-driven Segment Selection for Ranking Long Documents**
   <br>
-  *Youngwoo Kim*, Razieh Rahimi, Hamed Bonab, and James Allan
+  **Youngwoo Kim**, Razieh Rahimi, Hamed Bonab, and James Allan
   <br>
   In Proceedings of the 30th ACM International Conference on Information and Knowledge Management
   <br>
@@ -45,9 +57,9 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2020
 
-- **Explaining Text Matching on Neural Natural Language Inference**
+- **[TOIS] Explaining Text Matching on Neural Natural Language Inference**
   <br>
-  *Youngwoo Kim*, Myungha Jang, and James Allan
+  **Youngwoo Kim**, Myungha Jang, and James Allan
   <br>
   ACM Transactions on Information Systems
   <br>
@@ -55,17 +67,17 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2019
 
-- **Unsupervised Explainable Controversy Detection from Online News** 🏆 *Best Paper*
+- **[ECIR 19] Unsupervised Explainable Controversy Detection from Online News** (🏆 **Best Paper**)
   <br>
-  *Youngwoo Kim* and James Allan
+  **Youngwoo Kim** and James Allan
   <br>
   In European Conference on Information Retrieval
   <br>
   [[PDF](https://people.cs.umass.edu/~youngwookim/assets/pdf/ecir2019.pdf)] [[Code](https://github.com/youngwoo-umass/news_controversy)]
 
-- **FEVER Breaker's Run of Team NbAuzDrLqg**
+- **[FEVER] FEVER Breaker's Run of Team NbAuzDrLqg**
   <br>
-  *Youngwoo Kim* and James Allan
+  **Youngwoo Kim** and James Allan
   <br>
   In Proceedings of the Second Workshop on Fact Extraction and VERification (FEVER)
   <br>
@@ -73,9 +85,9 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2014
 
-- **Geotree: using spatial information for georeferenced video search**
+- **[KBS] Geotree: using spatial information for georeferenced video search**
   <br>
-  *Youngwoo Kim*, Jinha Kim, and Hwanjo Yu
+  **Youngwoo Kim**, Jinha Kim, and Hwanjo Yu
   <br>
   Knowledge-based systems
   <br>
@@ -83,9 +95,9 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2012
 
-- **GeoSearch: georeferenced video retrieval system**
+- **[KDD] GeoSearch: georeferenced video retrieval system**
   <br>
-  *Youngwoo Kim*, Jinha Kim, and Hwanjo Yu
+  **Youngwoo Kim**, Jinha Kim, and Hwanjo Yu
   <br>
   In Proceedings of the 18th ACM SIGKDD international conference on Knowledge discovery and data mining
   <br>
@@ -93,7 +105,7 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 - **Edge detection based on morphological amoebas**
   <br>
-  Won Yeol Lee, *Young Woo Kim*, Se Yun Kim, Jae Young Lim, and Dong Hoon Lim
+  Won Yeol Lee, **Young Woo Kim**, Se Yun Kim, Jae Young Lim, and Dong Hoon Lim
   <br>
   The Imaging Science Journal
   <br>
@@ -101,14 +113,13 @@ View my work on [Google Scholar](https://scholar.google.com/citations?user=VInCf
 
 ### 2009
 
-- **Edge detection using morphological amoebas in noisy images**
+- **[ICIP] Edge detection using morphological amoebas in noisy images**
   <br>
-  Won Yeol Lee, Se Yun Kim, *Young Woo Kim*, Jae Young Lim, and Dong Hoon Lim
+  Won Yeol Lee, Se Yun Kim, **Young Woo Kim**, Jae Young Lim, and Dong Hoon Lim
   <br>
   In 2009 16th IEEE International Conference on Image Processing (ICIP)
   <br>
   [[PDF](https://people.cs.umass.edu/~youngwookim/assets/pdf/icip2009.pdf)]
-
 ---
 
-*Last updated: January 12, 2023*
+*Last updated: October 23, 2024*
