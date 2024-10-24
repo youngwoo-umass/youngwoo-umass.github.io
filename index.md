@@ -1,8 +1,9 @@
 # Youngwoo Kim
-
-![Youngwoo Kim](https://people.cs.umass.edu/~youngwookim/assets/img/prof_pic.jpg)
-
+ 
 youngwookim@cs.umass.edu
+
+ ![Youngwoo Kim](/youngwoo_uva.jpg) 
+ 
 
 ## About Me 🎓
 
