@@ -1,6 +1,8 @@
 # List of schedule at Charlottesville, Va. 
 ## Jan 21 - Mar 22
 
+* [List for only JPJ](https://youngwoo-umass.github.io/jpj_schedule)
+
 | Date       | Time       | Sport               | Venue                                |
 |------------|------------|---------------------|--------------------------------------|
 | **Tue Jan 21** | **7:00 pm** | **Men's Basketball**    | **John Paul Jones Arena (JPJ Arena)**    |
