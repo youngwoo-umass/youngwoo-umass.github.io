@@ -1,6 +1,7 @@
 # List of schedule at JPJ Arena (Charlottesville, Va.)
 
 ## Jan 21 - Mar 22
+
 | Date       | Time       | Sport               |
 |------------|------------|---------------------|
 | Tue Jan 21 | 7:00 pm    | Men's Basketball    |
